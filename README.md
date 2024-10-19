@@ -6,6 +6,8 @@
 
 #Connect with database with MYSQL Credentials;
 
+#http://localhost/phpmyadmin/index.php?route=/sql&db=sql&table=registration
+
 #CRUD Operations
 
 1. Create
