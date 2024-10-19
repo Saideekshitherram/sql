@@ -7,7 +7,7 @@ def get_db_connection():
         host="localhost",   # MySQL host (localhost)
         user="root",        # MySQL username
         password="",        # MySQL password (empty here)
-        database="sql"      # Your database name
+        database="sql"      # Database name
     )
     return connection
 
